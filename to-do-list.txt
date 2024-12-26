@@ -1,0 +1,46 @@
+Weather Journal App To-Do List
+Project Setup
+
+[x] Install Node.js and Express on your local machine.
+[x] Create a new project folder and initialize it with npm init.
+[x] Install necessary packages (express, cors, etc.).
+Server Setup
+
+[x] Create a server.js file.
+[x] Set up the Express app and point it to the project folder.
+[x] Install and configure the cors package.
+API Key Configuration
+
+[x] Sign up for an API key on OpenWeatherMap.
+[x] Store the API key in a constant variable in app.js.
+
+
+Create API Endpoints
+[X] Initialize an empty JavaScript object named projectData in server.js.
+[X] Set up a GET route to return the projectData.
+[X] Set up a POST route to add new entries to projectData.
+Client-Side Development
+
+[X] Create an HTML file with input fields for zip code and feelings.
+[X] Add a button to generate the weather report.
+[X] Set up event listeners for user interactions.
+
+Fetch Data from API
+[X ] Write a function to fetch weather data from the OpenWeatherMap API using the user's zip code.
+[ X] Handle the response and update the UI with the fetched data.
+
+Dynamic UI Updates
+[ ] Write functions to dynamically update the DOM with the weather data and user feelings.
+[ ] Ensure that the UI updates correctly when new data is added.
+
+Testing and Debugging
+[ ] Test all functionalities to ensure they work as expected.
+[ ] Debug any issues that arise during testing.
+
+Final Touches
+[ ] Style the application using CSS for a better user experience.
+[ ] Review the project rubric to ensure all requirements are met.
+
+Submission
+[ ] Prepare the project for submission by zipping the project folder.
+[ ] Submit the project according to Udacity's guidelines.

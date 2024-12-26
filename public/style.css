@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+#zip {
+    width: 50%;
+}
+
+.userData{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+    align-items:center;
+}
+.userData #feelings {
+    padding: 20px;
+    border-radius: 10px;
+    width: 20%;
+    height: 10%;
+}
+#generate {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: green;
+    border: none;
+    color: white;
+}
+.page-content {
+    background-image: url(assets/image1.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.weatherData {
+    background-color: grey;
+    color: black;
+    text-align: center;
+    padding: 20px;
+}
